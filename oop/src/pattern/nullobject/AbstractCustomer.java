@@ -1,7 +1,7 @@
 /**
  * 
  */
-package patter.nullobject;
+package pattern.nullobject;
 
 //复杂的分布式人类系统中，任何定律都可能表现有大的偏差。
 

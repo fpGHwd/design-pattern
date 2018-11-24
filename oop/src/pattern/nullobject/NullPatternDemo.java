@@ -1,7 +1,7 @@
 /**
  * 
  */
-package patter.nullobject;
+package pattern.nullobject;
 
 /**
  * @author Suzumiya

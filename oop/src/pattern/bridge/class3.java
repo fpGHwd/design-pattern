@@ -13,7 +13,6 @@ public class class3 implements interface3 {
 	 * @see pattern.bridge.interface1#interface1Method()
 	 */
 	public void interface1() {
-		// TODO Auto-generated method stub
 
 	}
 
@@ -22,7 +21,6 @@ public class class3 implements interface3 {
 	 */
 	@Override
 	public void interface2() {
-		// TODO Auto-generated method stub
 
 	}
 
@@ -31,7 +29,6 @@ public class class3 implements interface3 {
 	 */
 	@Override
 	public void interface3() {
-		// TODO Auto-generated method stub
 
 	}
 

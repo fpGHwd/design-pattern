@@ -14,7 +14,6 @@ import javax.servlet.http.HttpServletResponse;
  * 
  */
 
-// TODO add jar package
 public class SimpleServlet extends HttpServlet {
 	public void doGet(HttpServletRequest request, HttpServletResponse response) 
 			throws ServletException, IOException {

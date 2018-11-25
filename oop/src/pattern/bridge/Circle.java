@@ -35,7 +35,6 @@ public class Circle extends Shape {
 	 */
 	@Override
 	public void drawCircle(int radius, int x, int y) {
-		// TODO Auto-generated method stub
 		
 	}
 

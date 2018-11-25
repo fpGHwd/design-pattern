@@ -15,7 +15,6 @@ public class BuyStock implements Order {
 	 * 
 	 */
 	public BuyStock(Stock stock) {
-		// TODO Auto-generated constructor stub
 		this.stock = stock;
 		
 	}
@@ -25,7 +24,6 @@ public class BuyStock implements Order {
 	 */
 	@Override
 	public void execute() {
-		// TODO Auto-generated method stub
 		stock.buy();
 
 	}

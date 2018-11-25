@@ -15,7 +15,6 @@ public class ShapeCache {
 	 * 
 	 */
 	public ShapeCache() {
-		// TODO Auto-generated constructor stub
 	}
 	
 	// database

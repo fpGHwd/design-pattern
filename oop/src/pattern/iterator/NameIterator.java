@@ -14,7 +14,6 @@ public class NameIterator implements Iterator {
 	 */
 	@Override
 	public boolean hasNext() {
-		// TODO Auto-generated method stub
 		return false;
 	}
 
@@ -23,7 +22,6 @@ public class NameIterator implements Iterator {
 	 */
 	@Override
 	public Object next() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 

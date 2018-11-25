@@ -14,7 +14,6 @@ public class class2 implements interface2 {
 	 */
 	@Override
 	public void interface2() {
-		// TODO Auto-generated method stub
 
 	}
 

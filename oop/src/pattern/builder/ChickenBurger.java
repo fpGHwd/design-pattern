@@ -15,7 +15,6 @@ public class ChickenBurger extends Burger {
 
 	@Override
 	public String pack() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 

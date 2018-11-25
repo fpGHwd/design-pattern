@@ -25,7 +25,6 @@ public class ChainPatternDemo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		AbstractLogger loggerChain = getChainOfLoggers();
 
 		loggerChain.logMessage(AbstractLogger.INFO, "This is an information.");

@@ -18,7 +18,7 @@ public class Bird extends Thread {
 	protected int x,y;
 	
 	Image bird=Toolkit.getDefaultToolkit().getImage("C:\\Users\\mswdw\\Workspaces\\dove.jpg");
-	public Bird(Cage _cage, int _x, int _y){ // TODO _ mean what
+	public Bird(Cage _cage, int _x, int _y){ // _ mean what is just a constructor value
 		cage = _cage;
 		x = _x;
 		y = _y;

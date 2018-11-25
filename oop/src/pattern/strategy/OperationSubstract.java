@@ -14,7 +14,6 @@ public class OperationSubstract implements Strategy {
 	 */
 	@Override
 	public int doOperation(int num1, int num3) { //参数名字和接口不一样并不报错
-		// TODO Auto-generated method stub
 		return num1-num3;
 	}
 

@@ -41,7 +41,6 @@ public class StudentDaoImpl implements StudentDao {
 
 	@Override
 	public void addStudent(Student student) {
-		// TODO Auto-generated method stub
 
 	}
 

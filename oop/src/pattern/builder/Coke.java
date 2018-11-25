@@ -10,19 +10,16 @@ public class Coke extends ColdDrink {
 
 	@Override
 	public String name() {
-		// TODO Auto-generated method stub
 		return "Coke";
 	}
 
 	@Override
 	public String pack() {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
 	public float price() {
-		// TODO Auto-generated method stub
 		return 30.0f;
 	}
 
